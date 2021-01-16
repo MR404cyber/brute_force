@@ -12,13 +12,13 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     KALIMANTAN-CYBER-TEAM"$i"         |"
+echo $i" |"$cy"     KALIMANTAN-CYBER-TEAM"$i"              |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RAIHAN  [MR.404]"$i"          |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.404] [MR.404] [MR.404]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [404]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 082331072836"$i"             |"
-echo $i" |"$pu" Youtube :"$ku" MR.404"$i"      |"
+echo $i" |"$pu" AUTHOR :"$ku" RAIHAN  [MR.404]"$i"             |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [MR.404] [MR.404] [MR.404]"$i"    |"
+echo $i" |"$cy"            ~ [cyber] [%MR.S%] [404]"$i"       |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 082331072836"$i"              |"
+echo $i" |"$pu" Youtube :"$ku" MR.404"$i"                       |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
